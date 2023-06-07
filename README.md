@@ -10,3 +10,4 @@ A direct commit test 2
 A PR merge test
 
 branch commit 1
+branch commit 2
