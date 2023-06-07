@@ -14,3 +14,5 @@ branch commit 2
 
 new test c1
 new test c2
+
+rebase c1
