@@ -16,3 +16,4 @@ new test c1
 new test c2
 
 rebase c1
+rebase c2
