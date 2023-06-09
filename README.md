@@ -19,3 +19,4 @@ rebase c1
 rebase c2
 
 fri1
+fri2
