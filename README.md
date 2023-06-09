@@ -17,3 +17,5 @@ new test c2
 
 rebase c1
 rebase c2
+
+fri1
